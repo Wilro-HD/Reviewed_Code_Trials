@@ -1,7 +1,7 @@
 # Notes for review 537374 on 2023-05-10
 
 string="you can have data without information,but you cannot have information without data"
-letters=list( "abcdefghijklmnopqrsvwxyz")
+letters=list("abcdefghijklmnopqrsvwxyz")
  
 letters_frequency={letter: 0 for letter in letters}
  
